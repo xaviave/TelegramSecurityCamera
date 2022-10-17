@@ -1,0 +1,9 @@
+pre-commit
+black
+flake8
+
+numpy
+numba
+opencv-python
+cached-property
+python-telegram-bot
